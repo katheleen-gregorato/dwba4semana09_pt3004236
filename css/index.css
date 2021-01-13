@@ -1,0 +1,19 @@
+.grid-container {
+  display: inline-grid;
+  grid-template-columns: auto auto;
+  padding: 10px;
+  grid-gap: 40px;
+  grid-column-gap: 300px;
+}
+* {
+   text-align: center;
+   
+}
+
+img {
+  height:260px;
+  width:450px;
+}
+
+
+
